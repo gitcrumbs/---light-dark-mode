@@ -20,7 +20,6 @@
   --on-background-alt: rgba(255, 255, 255, 0.7);
   --background: #121212;
 }
-
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
